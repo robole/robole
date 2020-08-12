@@ -1,0 +1,1 @@
+![quote](img/quote.gif)
