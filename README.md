@@ -19,7 +19,9 @@ These are my latest articles from [my blog](https://roboleary.net/blog), [CSS Tr
 ### freeCodeCamp
 
 <!-- FCC:START -->
-<!-- FCC:END -->
+ - 3 Nov 20 » [Polymorphism in Java Tutorial – With Object Oriented Programming Example Code](https://www.freecodecamp.org/news/polymorphism-in-java-tutorial-with-object-oriented-programming-example-code/)
+ - 19 Oct 20 » [VS Code Performance – How to Optimize Visual Studio Code and Choose the "Best" Extensions](https://www.freecodecamp.org/news/optimize-vscode-performance-best-extensions/)
+ - 24 Sep 20 » [Visual Studio Code Snippets – the Definitive VS Code Snippet Guide for Beginners](https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/)<!-- FCC:END -->
 
 ### LogRocket
 
