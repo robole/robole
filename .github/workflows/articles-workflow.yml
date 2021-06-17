@@ -1,0 +1,33 @@
+# see https://github.com/marketplace/actions/blog-post-workflow
+name: Latest articles workflow
+on:
+  schedule:
+    - cron: "0 09 * * *" # Runs every day at 9am
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://roboleary.net/feed.xml"
+          max_post_count: 3
+          template: "$newline - $date » [$title]($url)"
+          date_format: "d mmm yy"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: FCC
+          max_post_count: 3
+          template: "$newline - $date » [$title]($url)"
+          date_format: "d mmm yy"
+          feed_list: "https://www.freecodecamp.org/news/author/rob/rss/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: LOG
+          max_post_count: 3
+          template: "$newline - $date » [$title]($url)"
+          date_format: "d mmm yy"
+          feed_list: "https://blog.logrocket.com/author/rob-oleary/feed/"
