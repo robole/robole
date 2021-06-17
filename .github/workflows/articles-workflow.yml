@@ -16,18 +16,18 @@ jobs:
           feed_list: "https://roboleary.net/feed.xml"
           max_post_count: 3
           template: "$newline - $date » [$title]($url)"
-          date_format: "d mmm yy"
+          date_format: "dd mmm yy"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: FCC
           max_post_count: 3
           template: "$newline - $date » [$title]($url)"
-          date_format: "d mmm yy"
+          date_format: "dd mmm yy"
           feed_list: "https://www.freecodecamp.org/news/author/rob/rss/"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: LOG
           max_post_count: 3
           template: "$newline - $date » [$title]($url)"
-          date_format: "d mmm yy"
+          date_format: "dd mmm yy"
           feed_list: "https://blog.logrocket.com/author/rob-oleary/feed/"
