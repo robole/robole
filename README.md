@@ -26,6 +26,6 @@ These are my latest articles from [my blog](https://roboleary.net/blog), [CSS Tr
 ### LogRocket
 
 <!-- LOG:START -->
- - 8 Jun 21 » [Automate formatting and fixing JavaScript code with Prettier and ESLint](https://blog.logrocket.com/automate-formatting-and-fixing-javascript-code-with-prettier-and-eslint/)
- - 1 Apr 21 » [Writing VS Code extensions in JavaScript](https://blog.logrocket.com/writing-vs-code-extensions-in-javascript/)
- - 2 Mar 21 » [The latest features of CSS in 2021](https://blog.logrocket.com/the-latest-features-of-css-in-2021/)<!-- LOG:END -->
+ - 08 Jun 21 » [Automate formatting and fixing JavaScript code with Prettier and ESLint](https://blog.logrocket.com/automate-formatting-and-fixing-javascript-code-with-prettier-and-eslint/)
+ - 01 Apr 21 » [Writing VS Code extensions in JavaScript](https://blog.logrocket.com/writing-vs-code-extensions-in-javascript/)
+ - 02 Mar 21 » [The latest features of CSS in 2021](https://blog.logrocket.com/the-latest-features-of-css-in-2021/)<!-- LOG:END -->
