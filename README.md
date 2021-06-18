@@ -7,9 +7,9 @@ These are my latest articles from [my blog](https://roboleary.net/blog), [CSS Tr
 ### My blog
 
 <!-- BLOG:START -->
- - 9 Jun 21 » [Give your linux terminal a makeover](https://robole.github.io/2021/06/09/give-your-terminal-a-makeover.html)
- - 1 May 21 » [An unwanted update to your Google Account](https://robole.github.io/2021/05/01/unwated-change-to-your-google-account.html)
- - 28 Apr 21 » [Easy file management in VS Code](https://robole.github.io/2021/04/28/easy-file-management-vscode.html)<!-- BLOG:END -->
+ - 18 Jun 21 » [Write a VS Code extension in JavaScript, not TypeScript ^](https://robole.github.io/2021/06/18/write-a-vscode-extension-in-javascript-not-typescript.html)
+ - 09 Jun 21 » [Give your linux terminal a makeover](https://robole.github.io/2021/06/09/give-your-terminal-a-makeover.html)
+ - 01 May 21 » [An unwanted update to your Google Account](https://robole.github.io/2021/05/01/unwated-change-to-your-google-account.html)<!-- BLOG:END -->
 
 ### CSS Tricks
 
