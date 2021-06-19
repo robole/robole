@@ -2,7 +2,7 @@
 
 ## Latest articles 🗞️
 
-These are my latest articles from [my blog](https://roboleary.net/blog), [CSS Tricks](https://css-tricks.com/author/robjoeol/), [freeCodeCamp](https://www.freecodecamp.org/news/author/rob/), and [LogRocket](https://blog.logrocket.com/author/rob-oleary/):
+Below are the latest articles I have written, which are published in various places on the web: [my blog](https://roboleary.net/blog), [CSS Tricks](https://css-tricks.com/author/robjoeol/), [freeCodeCamp](https://www.freecodecamp.org/news/author/rob/), and [LogRocket](https://blog.logrocket.com/author/rob-oleary/). If you would like to support me to publish all of my articles and tutorials ad-free, that is only on my website and freeCodeCamp, you can [support me on ko-fi](https://ko-fi.com/roboleary).
 
 ### My blog
 
@@ -13,7 +13,7 @@ These are my latest articles from [my blog](https://roboleary.net/blog), [CSS Tr
 
 ### CSS Tricks
 
-- 5 May 21 » [Is Vendor Prefixing Dead?](https://css-tricks.com/is-vendor-prefixing-dead/)
+- 05 May 21 » [Is Vendor Prefixing Dead?](https://css-tricks.com/is-vendor-prefixing-dead/)
 - 22 Feb 21 » [Getting Deep Into Shadows](https://css-tricks.com/getting-deep-into-shadows/)
 
 ### freeCodeCamp
