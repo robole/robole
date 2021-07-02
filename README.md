@@ -7,9 +7,9 @@ Below are the latest articles I have written, which are published in various pla
 ### My blog
 
 <!-- BLOG:START -->
- - 20 Jun 21 » [My article was #1 on Hackernews yesterday and it was an unpleasant experience](https://robole.github.io/2021/06/20/number-one-on-hackernews-unpleasant-experience.html)
- - 18 Jun 21 » [Write a VS Code extension in JavaScript, not TypeScript ^](https://robole.github.io/2021/06/18/write-a-vscode-extension-in-javascript-not-typescript.html)
- - 09 Jun 21 » [Give your linux terminal a makeover](https://robole.github.io/2021/06/09/give-your-terminal-a-makeover.html)<!-- BLOG:END -->
+ - 20 Jun 21 » [My article was #1 on Hackernews yesterday and it was an unpleasant experience](https://roboleary.net/2021/06/20/number-one-on-hackernews-unpleasant-experience.html)
+ - 18 Jun 21 » [Write a VS Code extension in JavaScript, not TypeScript ^](https://roboleary.net/2021/06/18/write-a-vscode-extension-in-javascript-not-typescript.html)
+ - 09 Jun 21 » [Give your linux terminal a makeover](https://roboleary.net/2021/06/09/give-your-terminal-a-makeover.html)<!-- BLOG:END -->
 
 ### CSS Tricks
 
