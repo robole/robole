@@ -2,8 +2,6 @@
 
 ## Latest articles 🗞️
 
-If you would like to support me to publish all of my articles and tutorials ad-free, you can [support me on ko-fi](https://ko-fi.com/roboleary).
-
 ### My blog
 
 <!-- BLOG:START -->
@@ -13,9 +11,6 @@ If you would like to support me to publish all of my articles and tutorials ad-f
 
 ### Elsewhere on the web
 
-- 05 May 21 » [Is Vendor Prefixing Dead?](https://css-tricks.com/is-vendor-prefixing-dead/) (CSS Tricks)
-<!-- LOG:START -->
  - 08 Jun 21 » [Automate formatting and fixing JavaScript code with Prettier and ESLint](https://blog.logrocket.com/automate-formatting-and-fixing-javascript-code-with-prettier-and-eslint/) (Log Rocket)
- - 01 Apr 21 » [Writing VS Code extensions in JavaScript](https://blog.logrocket.com/writing-vs-code-extensions-in-javascript/) (Log Rocket)<!-- LOG:END -->
-<!-- FCC:START -->
- - 03 Nov 20 » [Polymorphism in Java Tutorial – With Object Oriented Programming Example Code](https://www.freecodecamp.org/news/polymorphism-in-java-tutorial-with-object-oriented-programming-example-code/) (freeCodeCamp)<!-- FCC:END -->
+ - 05 May 21 » [Is Vendor Prefixing Dead?](https://css-tricks.com/is-vendor-prefixing-dead/) (CSS Tricks)
+ - 01 Apr 21 » [Writing VS Code extensions in JavaScript](https://blog.logrocket.com/writing-vs-code-extensions-in-javascript/) (Log Rocket)
