@@ -5,9 +5,9 @@
 ### My blog
 
 <!-- BLOG:START -->
+ - 16 Aug 21 » [VS Code - Get type checking in JavaScript easily](https://roboleary.net/2021/08/16/vscode-type-checking-for-javascript.html)
  - 10 Aug 21 » [VS Code - How many extensions should I use?](https://roboleary.net/2021/08/10/vscode-how-many-extensions-should-i-use.html)
- - 29 Jul 21 » [Images are hard. Is there a simpler way?](https://roboleary.net/2021/07/29/simpler-images.html)
- - 14 Jul 21 » [Make your own (interactive) graphic novel](https://roboleary.net/2021/07/14/make-your-own-graphic-novel.html)<!-- BLOG:END -->
+ - 29 Jul 21 » [Images are hard. Is there a simpler way?](https://roboleary.net/2021/07/29/simpler-images.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
