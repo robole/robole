@@ -5,7 +5,7 @@
 ### My blog
 
 <!-- BLOG:START -->
- - 23 Aug 21 » [VS Code - Snippets are not bash aliases. How to write snippets that anyone can use](https://roboleary.net/2021/08/23/vscode-snippets-are-not-aliases.html)
+ - 23 Aug 21 » [VS Code - Snippets are not bash aliases. How to write great snippets that anyone can use](https://roboleary.net/2021/08/23/vscode-snippets-are-not-aliases.html)
  - 16 Aug 21 » [VS Code - Get type checking in JavaScript easily](https://roboleary.net/2021/08/16/vscode-type-checking-for-javascript.html)
  - 10 Aug 21 » [VS Code - How many extensions should I use?](https://roboleary.net/2021/08/10/vscode-how-many-extensions-should-i-use.html)<!-- BLOG:END -->
 
