@@ -5,9 +5,9 @@
 ### My blog
 
 <!-- BLOG:START -->
+ - 06 Nov 21 » [VS Code: You don't need that extension part 2](https://roboleary.net/2021/11/06/vscode-you-dont-need-that-extension2.html)
  - 11 Oct 21 » [VS Code - Quickly increment and decrement numeric values with keyboard shortcuts](https://roboleary.net/2021/10/11/vscode-increment-decrement-numeric-values-keyboard-shorcuts.html)
- - 02 Sep 21 » [Automatically change your wallpaper on Linux](https://roboleary.net/2021/09/02/linux-change-wallpaper.html)
- - 30 Aug 21 » [Setting up your own online store? Here's a breakdown of the transaction fees charged by payment services](https://roboleary.net/2021/08/30/ecommerce-transaction-fees.html)<!-- BLOG:END -->
+ - 02 Sep 21 » [Automatically change your wallpaper on Linux](https://roboleary.net/2021/09/02/linux-change-wallpaper.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
