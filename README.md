@@ -5,7 +5,7 @@
 ### My blog
 
 <!-- BLOG:START -->
- - 18 Nov 21 » [Testing a Svelte app with Jest](https://www.roboleary.net/2021/11/18/svelte-app-testing-jest.html)
+ - 18 Nov 21 » [Testing a Svelte app with Jest](https://roboleary.net/2021/11/18/svelte-app-testing-jest.html)
  - 06 Nov 21 » [VS Code: You don&#39;t need that extension part 2](https://roboleary.net/2021/11/06/vscode-you-dont-need-that-extension2.html)
  - 11 Oct 21 » [VS Code - Quickly increment and decrement numeric values with keyboard shortcuts](https://roboleary.net/2021/10/11/vscode-increment-decrement-numeric-values-keyboard-shorcuts.html)<!-- BLOG:END -->
 
