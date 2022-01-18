@@ -5,9 +5,9 @@
 ### My blog
 
 <!-- BLOG:START -->
+ - 17 Jan 22 » [Add bookmark links to your blog easy to make it easy to reference](https://roboleary.net/2022/01/17/bookmark-links.html)
  - 13 Jan 22 » [Add a &#39;copy code to clipboard&#39; button to your blog&#39;s code blocks](https://roboleary.net/2022/01/13/copy-code-to-clipboard-blog.html)
- - 18 Nov 21 » [Testing a Svelte app with Jest](https://roboleary.net/2021/11/18/svelte-app-testing-jest.html)
- - 06 Nov 21 » [VS Code: You don&#39;t need that extension part 2](https://roboleary.net/2021/11/06/vscode-you-dont-need-that-extension2.html)<!-- BLOG:END -->
+ - 18 Nov 21 » [Testing a Svelte app with Jest](https://roboleary.net/2021/11/18/svelte-app-testing-jest.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
