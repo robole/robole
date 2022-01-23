@@ -5,9 +5,9 @@
 ### My blog
 
 <!-- BLOG:START -->
+ - 22 Jan 22 » [Create Ozark&#39;s hypnotizing title animation with Greensock &lpar;GSAP&rpar;](https://roboleary.net/2022/01/22/ozark-animation.html)
  - 17 Jan 22 » [Add bookmark links to your blog to make it easy to reference](https://roboleary.net/2022/01/17/bookmark-links.html)
- - 13 Jan 22 » [Add a &#39;copy code to clipboard&#39; button to your blog&#39;s code blocks](https://roboleary.net/2022/01/13/copy-code-to-clipboard-blog.html)
- - 18 Nov 21 » [Testing a Svelte app with Jest](https://roboleary.net/2021/11/18/svelte-app-testing-jest.html)<!-- BLOG:END -->
+ - 13 Jan 22 » [Add a &#39;copy code to clipboard&#39; button to your blog&#39;s code blocks](https://roboleary.net/2022/01/13/copy-code-to-clipboard-blog.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
