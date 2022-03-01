@@ -5,9 +5,9 @@
 ### My blog
 
 <!-- BLOG:START -->
+ - 28 Feb 22 » [VS Code keyboard-fu: custom keyboard shortcuts that will boost your productivity](https://roboleary.net/2022/02/28/vscode-keyboard-fu-custom-keyboard-shortcuts.html)
  - 24 Feb 22 » [Read XKCD in the terminal with some bash magic](https://roboleary.net/2022/02/24/xkcd-in-the-terminal-with-some-bash-magic.html)
- - 22 Jan 22 » [Create Ozark&#39;s hypnotizing title animation with Greensock &lpar;GSAP&rpar;](https://roboleary.net/2022/01/22/ozark-animation.html)
- - 17 Jan 22 » [Add bookmark links to your blog to make it easy to reference](https://roboleary.net/2022/01/17/bookmark-links.html)<!-- BLOG:END -->
+ - 22 Jan 22 » [Create Ozark&#39;s hypnotizing title animation with Greensock &lpar;GSAP&rpar;](https://roboleary.net/2022/01/22/ozark-animation.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
