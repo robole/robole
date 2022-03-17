@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 16 Mar 22 » [Setting up VS Code for Java development](https://roboleary.net/2022/03/16/setting-up-vscode-for-java-development.html)
  - 28 Feb 22 » [VS Code keyboard-fu: custom keyboard shortcuts that will boost your productivity](https://roboleary.net/2022/02/28/vscode-keyboard-fu-custom-keyboard-shortcuts.html)
- - 24 Feb 22 » [Read XKCD in the terminal with some bash magic](https://roboleary.net/2022/02/24/xkcd-in-the-terminal-with-some-bash-magic.html)
- - 22 Jan 22 » [Create Ozark&#39;s hypnotizing title animation with Greensock &lpar;GSAP&rpar;](https://roboleary.net/2022/01/22/ozark-animation.html)<!-- BLOG:END -->
+ - 24 Feb 22 » [Read XKCD in the terminal with some bash magic](https://roboleary.net/2022/02/24/xkcd-in-the-terminal-with-some-bash-magic.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
