@@ -19,4 +19,6 @@ You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to reciev
 
 ## Support my work
 
-If you would like to support my work, you can [donate on ko-fi](https://ko-fi.com/roboleary). You can buy me a coffee, or make a regular donation. Feel free to let me know if something I made had an impact on you. Thanks!
+If you would like to support my work, you can [donate on ko-fi](https://ko-fi.com/roboleary). You can buy me a coffee, or make a regular donation. 🌈🪙
+
+Feel free to let me know if something I made had an impact on you. Thanks! 🙏
