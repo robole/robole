@@ -13,8 +13,8 @@ You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to reciev
 
 ### Elsewhere on the web
 
+ - 22 Mar 22 » [Data visualization with Svelte and D3](https://blog.logrocket.com/data-visualization-svelte-d3/) (Log Rocket)
  - 17 Aug 21 » [Level up your CSS linting using Stylelint](https://blog.logrocket.com/using-stylelint-improve-lint-css-scss-sass/) (Log Rocket)
- - 08 Jun 21 » [Automate formatting and fixing JavaScript code with Prettier and ESLint](https://blog.logrocket.com/automate-formatting-and-fixing-javascript-code-with-prettier-and-eslint/) (Log Rocket)
  - 05 May 21 » [Is Vendor Prefixing Dead?](https://css-tricks.com/is-vendor-prefixing-dead/) (CSS Tricks)
 
 ## Support my work
