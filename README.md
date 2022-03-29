@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 28 Mar 22 » [Native lazy-loading - Why doesn&#39;t the video element have it?](https://roboleary.net/frontend/2022/03/28/why-doesnt-the-video-element-have-native-lazy-loading.html)
  - 24 Mar 22 » [Add a &quot;skip to main content&quot; navigation link to your website to improve accessibility](https://roboleary.net/frontend/2022/03/24/skip-to-main-content-navigation-link-accessibility.html)
- - 16 Mar 22 » [Setting up VS Code for Java development](https://roboleary.net/2022/03/16/setting-up-vscode-for-java-development.html)
- - 28 Feb 22 » [VS Code keyboard-fu: custom keyboard shortcuts that will boost your productivity](https://roboleary.net/2022/02/28/vscode-keyboard-fu-custom-keyboard-shortcuts.html)<!-- BLOG:END -->
+ - 16 Mar 22 » [Setting up VS Code for Java development](https://roboleary.net/2022/03/16/setting-up-vscode-for-java-development.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
