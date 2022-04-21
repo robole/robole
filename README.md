@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 20 Apr 22 » [VS Code - What&#39;s the deal with the telemetry?](https://roboleary.net/tools/2022/04/20/vscode-telemetry.html)
  - 13 Apr 22 » [How to detect scroll direction in vanilla JavaScript &lpar;to make a goofy logo animation&rpar;](https://roboleary.net/frontend/2022/04/13/detect-scroll-direction-vanilla-javascript.html)
- - 04 Apr 22 » [How to include browser support data &lpar;caniuse&rpar; in your blog posts](https://roboleary.net/frontend/2022/04/04/how-to-include-caniuse-data-in-post.html)
- - 28 Mar 22 » [Native lazy-loading - Why doesn&#39;t the video element have it?](https://roboleary.net/frontend/2022/03/28/why-doesnt-the-video-element-have-native-lazy-loading.html)<!-- BLOG:END -->
+ - 04 Apr 22 » [How to include browser support data &lpar;caniuse&rpar; in your blog posts](https://roboleary.net/frontend/2022/04/04/how-to-include-caniuse-data-in-post.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
