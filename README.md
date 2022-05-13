@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 12 May 22 » [Spring clean your home directory! Or should you? 🌻🧹🤔](https://roboleary.net/linux/2022/05/12/spring-clean-home-directory-linux.html)
  - 27 Apr 22 » [Add a smart &#39;back to top&#39; button to your website 👓🔝](https://roboleary.net/frontend/2022/04/27/smart-go-to-top-button-link.html)
- - 20 Apr 22 » [VS Code - What&#39;s the deal with the telemetry?](https://roboleary.net/tools/2022/04/20/vscode-telemetry.html)
- - 13 Apr 22 » [How to detect scroll direction in vanilla JavaScript &lpar;to make a goofy logo animation&rpar;](https://roboleary.net/frontend/2022/04/13/detect-scroll-direction-vanilla-javascript.html)<!-- BLOG:END -->
+ - 20 Apr 22 » [VS Code - What&#39;s the deal with the telemetry?](https://roboleary.net/tools/2022/04/20/vscode-telemetry.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
