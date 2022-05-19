@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 18 May 22 » [VS Code - You don&#39;t need a formatting extension &lpar;Prettier and friends&rpar;](https://roboleary.net/tools/2022/05/18/vscode-you-dont-need-a-formatting-extension-prettier-and-friends.html)
  - 12 May 22 » [Spring clean your home directory! Or should you? 🌻🧹🤔](https://roboleary.net/linux/2022/05/12/spring-clean-home-directory-linux.html)
- - 27 Apr 22 » [Add a smart &#39;back to top&#39; button to your website 👓🔝](https://roboleary.net/frontend/2022/04/27/smart-go-to-top-button-link.html)
- - 20 Apr 22 » [VS Code - What&#39;s the deal with the telemetry?](https://roboleary.net/tools/2022/04/20/vscode-telemetry.html)<!-- BLOG:END -->
+ - 27 Apr 22 » [Add a smart &#39;back to top&#39; button to your website 👓🔝](https://roboleary.net/frontend/2022/04/27/smart-go-to-top-button-link.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
