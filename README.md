@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 23 May 22 » [How to create a slick CSS animation from The Marvelous Mrs Maisel &lpar;TV series title sequence&rpar;](https://roboleary.net/2022/05/23/how-to-make-a-slick-animation-the-marvelous-mrs-maisel-title-sequence.html)
  - 18 May 22 » [VS Code - You don&#39;t need a formatting extension &lpar;Prettier and friends&rpar;](https://roboleary.net/tools/2022/05/18/vscode-you-dont-need-a-formatting-extension-prettier-and-friends.html)
- - 12 May 22 » [Spring clean your home directory! Or should you? 🌻🧹🤔](https://roboleary.net/linux/2022/05/12/spring-clean-home-directory-linux.html)
- - 27 Apr 22 » [Add a smart &#39;back to top&#39; button to your website 👓🔝](https://roboleary.net/frontend/2022/04/27/smart-go-to-top-button-link.html)<!-- BLOG:END -->
+ - 12 May 22 » [Spring clean your home directory! Or should you? 🌻🧹🤔](https://roboleary.net/linux/2022/05/12/spring-clean-home-directory-linux.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
