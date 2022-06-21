@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 13 Jun 22 » [How I fixed the feed on my website](https://www.roboleary.net/webdev/2022/06/14/how-i-fixed-the-atom-web-feed-on-my-website.html)
  - 12 Jun 22 » [Migrating from VS Code to VS Codium on Linux painlessly](https://www.roboleary.net/tools/2022/06/13/migrate-from-vscode-to-vscodium-on-linux.html)
- - 05 Jun 22 » [How to make a slick CSS animation from Upload &lpar;TV series title sequence&rpar;](https://www.roboleary.net/2022/06/06/how-to-make-a-slick-css-animation-upload-title-sequence.html)
- - 30 May 22 » [VS Code or VS Codium?](https://www.roboleary.net/tools/2022/05/31/vscode-vscodium-which-should-i-use.html)<!-- BLOG:END -->
+ - 05 Jun 22 » [How to make a slick CSS animation from Upload &lpar;TV series title sequence&rpar;](https://www.roboleary.net/2022/06/06/how-to-make-a-slick-css-animation-upload-title-sequence.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
