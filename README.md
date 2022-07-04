@@ -7,9 +7,9 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml) to recieve my latest articles.
 
 <!-- BLOG:START -->
+ - 03 Jul 22 » [VS Code - Catch errors in your markdown files](https://www.roboleary.net/tools/2022/07/04/vscode-lint-markdown.html)
  - 26 Jun 22 » [Add a table of contents &lpar;TOC&rpar; to your blog posts](https://www.roboleary.net/webdev/2022/06/27/add-a-table-of-contents-to-your-blog-posts.html)
- - 21 Jun 22 » [Syntax highlighting library support for modern frontend frameworks](https://www.roboleary.net/webdev/2022/06/22/syntax-highlighting-library-support-for-modern-frontend-frameworks.html)
- - 13 Jun 22 » [How I fixed the feed on my website](https://www.roboleary.net/webdev/2022/06/14/how-i-fixed-the-atom-web-feed-on-my-website.html)<!-- BLOG:END -->
+ - 21 Jun 22 » [Syntax highlighting library support for modern frontend frameworks](https://www.roboleary.net/webdev/2022/06/22/syntax-highlighting-library-support-for-modern-frontend-frameworks.html)<!-- BLOG:END -->
 
 ### Elsewhere on the web
 
