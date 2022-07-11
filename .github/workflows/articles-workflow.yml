@@ -14,6 +14,6 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://www.roboleary.net/feed.xml"
-          max_post_count: 3
+          max_post_count: 5
           template: "$newline - $date » [$title]($url)"
           date_format: "dd mmm yy"
