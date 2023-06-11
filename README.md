@@ -1,4 +1,4 @@
-![quote](img/quote.gif)
+![animated image showing a typewriter typing out the following message: leave your mark on the world and dont be afraid to color outside of the lines. The word outside goes outside of the piece of paper](img/mark-on-the-world.webp)
 
 ## Latest articles 🗞️
 
