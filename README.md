@@ -5,11 +5,11 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
+ - 05 Jun 24 » [Eleventy - Convert a RSS Feed to a collection](https://www.roboleary.net/2024/06/05/eleventy-rss-collection.html)
  - 02 Jun 24 » [Is Google&#39;s search algorithm hurting smaller websites?](https://www.roboleary.net/2024/06/02/google-hurt.html)
  - 26 May 24 » [Eleventy - Merge data with an existing collection](https://www.roboleary.net/2024/05/26/eleventy-external-posts.html)
  - 17 May 24 » [What can we conclude from the State of HTML 2023 survey results?](https://www.roboleary.net/webdev/2024/05/17/state-of-html.html)
- - 15 May 24 » [How to create a slick CSS animation from Alien](https://www.roboleary.net/2024/05/15/alien-title-sequence.html)
- - 14 May 24 » [Too many third-party embeds are making this accessibility mistake](https://www.roboleary.net/2024/05/14/embed-accessiblity.html)<!-- BLOG:END -->
+ - 15 May 24 » [How to create a slick CSS animation from Alien](https://www.roboleary.net/2024/05/15/alien-title-sequence.html)<!-- BLOG:END -->
 
 ## Support my work
 
