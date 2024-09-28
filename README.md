@@ -5,11 +5,11 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
+ - 27 Sep 24 » [Sumptuous stroked text in CSS](https://www.roboleary.net/blog/sexy-stroked-text/)
  - 10 Sep 24 » [Google is now an exclusive catalog](https://www.roboleary.net/blog/google-exclusive/)
  - 09 Sep 24 » [Eleventy - Zero JS charts](https://www.roboleary.net/blog/eleventy-charts/)
  - 07 Sep 24 » [Eleventy - Is it time to upgrade to version 3?](https://www.roboleary.net/blog/eleventy-upgrade-v3/)
- - 29 Aug 24 » [Svelte adoption guide: Overview, examples, and alternatives](https://blog.logrocket.com/svelte-adoption-guide/)
- - 17 Aug 24 » [Third-party embeds: script embed vs iframe embed. Which should you choose?](https://www.roboleary.net/blog/code-embeds/)<!-- BLOG:END -->
+ - 29 Aug 24 » [Svelte adoption guide: Overview, examples, and alternatives](https://blog.logrocket.com/svelte-adoption-guide/)<!-- BLOG:END -->
 
 ## Support my work
 
