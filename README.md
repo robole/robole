@@ -6,10 +6,10 @@ You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
  - 16 Oct 24 » [A glorious demo gallery](https://www.roboleary.net/blog/demo-gallery/)
+ - 08 Oct 24 » [Using Prettier and ESLint for JavaScript formatting](https://blog.logrocket.com/using-prettier-eslint-javascript-formatting/)
  - 27 Sep 24 » [Sumptuous stroked text in CSS](https://www.roboleary.net/blog/sexy-stroked-text/)
  - 10 Sep 24 » [Google is now an exclusive catalog](https://www.roboleary.net/blog/google-exclusive/)
- - 09 Sep 24 » [Eleventy - Zero JS charts](https://www.roboleary.net/blog/eleventy-charts/)
- - 07 Sep 24 » [Eleventy - Is it time to upgrade to version 3?](https://www.roboleary.net/blog/eleventy-upgrade-v3/)<!-- BLOG:END -->
+ - 09 Sep 24 » [Eleventy - Zero JS charts](https://www.roboleary.net/blog/eleventy-charts/)<!-- BLOG:END -->
 
 ## Support my work
 
