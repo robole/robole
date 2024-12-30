@@ -5,7 +5,7 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
- - 26 Dec 24 » [Styling HTML &amp;amp;lt;details&amp;amp;gt; and &amp;amp;lt;summary&amp;amp;gt; with modern CSS](https://blog.logrocket.com/styling-html-modern-css/)
+ - 26 Dec 24 » [Styling HTML details and summary with modern CSS](https://blog.logrocket.com/styling-html-modern-css/)
  - 16 Oct 24 » [A glorious demo gallery](https://www.roboleary.net/blog/demo-gallery/)
  - 08 Oct 24 » [Using Prettier and ESLint for JavaScript formatting](https://blog.logrocket.com/using-prettier-eslint-javascript-formatting/)
  - 27 Sep 24 » [Sumptuous stroked text in CSS](https://www.roboleary.net/blog/sexy-stroked-text/)
