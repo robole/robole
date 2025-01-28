@@ -5,11 +5,11 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
+ - 27 Jan 25 » [Actual free static website hosting](https://www.roboleary.net/blog/free-static-site-hosting/)
  - 26 Dec 24 » [Styling HTML details and summary with modern CSS](https://blog.logrocket.com/styling-html-modern-css/)
  - 16 Oct 24 » [A glorious demo gallery](https://www.roboleary.net/blog/demo-gallery/)
  - 08 Oct 24 » [Using Prettier and ESLint for JavaScript formatting](https://blog.logrocket.com/using-prettier-eslint-javascript-formatting/)
- - 27 Sep 24 » [Sumptuous stroked text in CSS](https://www.roboleary.net/blog/sexy-stroked-text/)
- - 10 Sep 24 » [Google is now an exclusive catalog](https://www.roboleary.net/blog/google-exclusive/)<!-- BLOG:END -->
+ - 27 Sep 24 » [Sumptuous stroked text in CSS](https://www.roboleary.net/blog/sexy-stroked-text/)<!-- BLOG:END -->
 
 ## Support my work
 
