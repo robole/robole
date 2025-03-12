@@ -5,11 +5,11 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
+ - 11 Mar 25 » [How to make a slick CSS animation from Arrested Development](https://www.roboleary.net/blog/arrested-development-title-sequence/)
  - 31 Jan 25 » [How to implement view transitions in multi-page apps](https://blog.logrocket.com/how-to-implement-view-transitions-multi-page-apps/)
  - 30 Jan 25 » [Hyperlinks have leveled up - link to a text snippet with text fragments](https://www.roboleary.net/blog/text-fragments/)
  - 27 Jan 25 » [Actual free static website hosting](https://www.roboleary.net/blog/free-static-site-hosting/)
- - 26 Dec 24 » [Styling HTML details and summary with modern CSS](https://blog.logrocket.com/styling-html-modern-css/)
- - 16 Oct 24 » [A glorious demo gallery](https://www.roboleary.net/blog/demo-gallery/)<!-- BLOG:END -->
+ - 26 Dec 24 » [Styling HTML details and summary with modern CSS](https://blog.logrocket.com/styling-html-modern-css/)<!-- BLOG:END -->
 
 ## Support my work
 
