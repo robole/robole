@@ -5,11 +5,11 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
- - 05 Apr 25 » [Don’t use Google’s Baseline to decide which web features to use](https://roboleary.net/blog/baseline/)
- - 23 Mar 25 » [Modern CSS to add to your CSS reset stylesheet](https://roboleary.net/blog/reset-update/)
- - 21 Mar 25 » [Snippets section - a catalogue of solutions to common problems](https://roboleary.net/blog/snippets-section/)
- - 11 Mar 25 » [How to make a slick CSS animation from Arrested Development](https://roboleary.net/blog/arrested-development-title-sequence/)
- - 31 Jan 25 » [How to implement view transitions in multi-page apps](https://blog.logrocket.com/how-to-implement-view-transitions-multi-page-apps/)<!-- BLOG:END -->
+ - 07 Apr 25 » [I moved my website to CloudFlare Pages, here’s why](https://www.roboleary.net/blog/cloudflare-pages/)
+ - 05 Apr 25 » [Don’t use Google’s Baseline to decide which web features to use](https://www.roboleary.net/blog/baseline/)
+ - 23 Mar 25 » [Modern CSS to add to your CSS reset stylesheet](https://www.roboleary.net/blog/reset-update/)
+ - 21 Mar 25 » [Snippets section - a catalogue of solutions to common problems](https://www.roboleary.net/blog/snippets-section/)
+ - 11 Mar 25 » [How to make a slick CSS animation from Arrested Development](https://www.roboleary.net/blog/arrested-development-title-sequence/)<!-- BLOG:END -->
 
 ## Support my work
 
