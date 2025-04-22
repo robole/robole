@@ -5,11 +5,11 @@
 You can subscribe to my [RSS Feed](https://www.roboleary.net/feed.xml).
 
 <!-- BLOG:START -->
+ - 21 Apr 25 » [AI-powered search summaries led to less clicks to websites](https://www.roboleary.net/blog/ai-seach-overviews/)
  - 19 Apr 25 » [How to create a slick CSS animation from Black Mirror](https://www.roboleary.net/blog/black-mirror-animation/)
  - 07 Apr 25 » [I moved my website to CloudFlare Pages, here’s why](https://www.roboleary.net/blog/cloudflare-pages/)
  - 05 Apr 25 » [Don’t use Google’s Baseline to decide which web features to use](https://www.roboleary.net/blog/baseline/)
- - 23 Mar 25 » [Modern CSS to add to your CSS reset stylesheet](https://www.roboleary.net/blog/reset-update/)
- - 21 Mar 25 » [Snippets section - a catalogue of solutions to common problems](https://www.roboleary.net/blog/snippets-section/)<!-- BLOG:END -->
+ - 23 Mar 25 » [Modern CSS to add to your CSS reset stylesheet](https://www.roboleary.net/blog/reset-update/)<!-- BLOG:END -->
 
 ## Support my work
 
